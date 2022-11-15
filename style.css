@@ -185,7 +185,7 @@ grid-template-rows: 220px;
     
 
 
- @media screen and (max-width:800px) {
+ @media screen and (max-width:900px) {
     #container1 ul{
         width: 80%;
     }
@@ -196,7 +196,7 @@ grid-template-rows: 220px;
     
 }
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:470px) {
     #container1{
         height: 40vh;
         background-size: 100% 40vh;
@@ -218,7 +218,7 @@ grid-template-rows: 220px;
     
 }
 
-@media screen and (max-width:800px) {
+@media screen and (max-width:900px) {
     #container3{
         display: grid;
         grid-template-columns: repeat(50%, 50%);
@@ -266,7 +266,7 @@ grid-template-rows: 220px;
 }
 }
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:470px) {
     #container3{
         display: grid;
         grid-template-columns: 100%;
@@ -320,7 +320,7 @@ grid-template-rows: 220px;
 } 
 
 }
-@media screen and (max-width:800px) {
+@media screen and (max-width:900px) {
 
     #container4{
         display:grid;
@@ -329,7 +329,7 @@ grid-template-rows: 220px;
 
      }   
 }
-@media screen and (max-width:400px) {
+@media screen and (max-width:470px) {
 
     #container4{
         display:grid;
@@ -338,7 +338,7 @@ grid-template-rows: 220px;
 
      }   
 }
-@media screen and (max-width:400px) {
+@media screen and (max-width:470px) {
     #footer{
         height: 100px;
     }
